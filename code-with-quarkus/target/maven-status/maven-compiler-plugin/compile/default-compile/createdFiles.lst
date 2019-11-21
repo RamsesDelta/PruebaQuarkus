@@ -1,0 +1,5 @@
+client\CompanyService.class
+org\products\ProductsResource.class
+org\products\Enetitys\Variations.class
+org\products\ProductService.class
+org\products\Enetitys\Products.class
